@@ -1,0 +1,21 @@
+body{
+    background-color: pink;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-inline: 30%
+    ;
+}
+h1{
+text-align: center; 
+background-color:lightpink;
+}
+.lin{
+      float: left;  
+}
+h3{
+    margin-right: 50%;
+    background-color: lightpink;
+}
+popup.js{
+    background-color: pink;
+}
